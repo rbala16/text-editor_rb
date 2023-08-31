@@ -59,7 +59,14 @@ MIT License
 2. Install the following: 
 - npm init
 - npm install
-- [express](https://www.npmjs.com/package/express)
+- npm install express (express.js)
+- npm install --save-dev webpack (Webpack)
+- npm install webpack-dev-server --save-dev (webpack-dev-server)
+- npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
+- npm install babel (Babel)
+- npm install --save-dev css-loader (CSS-loader)
+- npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
+- npm npm install idb (IndexedDB)
 
 
 ## Instructions
