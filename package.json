@@ -10,5 +10,27 @@
     "webpack": "^5.88.2",
     "webpack-dev-server": "^4.15.1",
     "webpack-pwa-manifest": "^4.3.0"
-  }
+  },
+  "name": "text-editor_rb",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run build && cd server && node server.js",
+    "server": "cd server nodemon server.js --ignore client",
+    "build": "cd client && npm run build",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "client": "cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbala16/text-editor_rb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbala16/text-editor_rb/issues"
+  },
+  "homepage": "https://github.com/rbala16/text-editor_rb#readme"
 }
