@@ -99,7 +99,7 @@ The following image shows the application's coache storage:
 
 Step by Step Instructions  has been provided in this walkthrough video,view that for more details
 ![walkthrough-Video](./Assets/walkthrough.gif)<br>
-Click the link below to watch viedo
+Click the link below to watch viedo with step by step instructions
 https://drive.google.com/file/d/1K7T2_jlN-jkmgSYkw6YAxdYU_rMEFk6q/view
 
 
