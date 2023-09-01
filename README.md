@@ -57,23 +57,16 @@ MIT License
 ## Installation
 1. Clone the repository
 2. Install the following: 
-
 - npm install
-<!-- - npm install express (express.js)
-- npm install --save-dev webpack (Webpack)
-- npm install webpack-dev-server --save-dev (webpack-dev-server)
-- npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
-- npm install babel (Babel)
-- npm install --save-dev css-loader (CSS-loader)
-- npm install concurrently --save (run multiple commands concurrently.) (Concurrently) -->
-
-
 
 ## Instructions
 💻   
 Run the following command at the terminal:
 
 `npm run start` <br>
+- Go to http://localhost:3000/ to view the app on local server<br>
+
+- Go to https://text-editor-rb-86dc49448406.herokuapp.com/ to view the functionality on heroku app
 
 ## Contributing
 Rajni bala : (https://github.com/rbala16)
@@ -85,30 +78,41 @@ Rajni bala : (https://github.com/rbala16)
 
 The following animation demonstrates the application functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/demo1.jpg)
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/demo2.jpg)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
+![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/demo3.jpg)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/demo4.jpg)
+
+The following image shows the application's coache storage:
+
+![Demonstration of the finished Module 19 Challenge with coache stotage' in the browser.](./Assets/demo5.jpg)
+<br>
+
+Step by Step Instructions  has been provided in this walkthrough video,view that for more details
+![walkthrough-Video](./Assets/walkthrough.gif)
 
 
- 
 
 ## Important Links
 
 You are required to submit the following for review:
 
 * The URL of the deployed application
+https://text-editor-rb-86dc49448406.herokuapp.com/
 
 * The URL of the GitHub repository, with a unique name and a README describing the project<br>
 https://github.com/rbala16/text-editor_rb
+
+* Walkthrough viedos of functinality of app:<br>
+https://drive.google.com/file/d/1K7T2_jlN-jkmgSYkw6YAxdYU_rMEFk6q/view
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
